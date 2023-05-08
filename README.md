@@ -10,6 +10,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/proof-of-developer.git
 cd proof-of-developer
 npm install
+```
 
 ## Configuration
 
@@ -21,7 +22,7 @@ Replace your_github_token with your actual token.
 
 ## Usage
 
-Import and use the hasCommits function:
+Import and use the `hasCommits` function:
 ```
 const proofOfDeveloper = require('./proof-of-developer');
 
@@ -31,7 +32,7 @@ const proofOfDeveloper = require('./proof-of-developer');
 })();
 ```
 
-Replace github_username with the GitHub username you want to check.
+Replace `github_username` with the GitHub username you want to check.
 
 The function returns an object with the following properties:
 
