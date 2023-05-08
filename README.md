@@ -14,7 +14,7 @@ npm install
 
 ## Configuration
 
-Create a .env file in the project root directory with your GitHub token:
+Create a `.env` file in the project root directory with your GitHub token:
 ```
 GITHUB_TOKEN=your_github_token
 Replace your_github_token with your actual token.
